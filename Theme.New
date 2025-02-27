@@ -1,11 +1,11 @@
 local Themes = {
   ["Default"] = {
-    ["Color Hub 1"] = Color3.fromRGB(22, 22, 22),
-    ["Color Hub 2"] = Color3.fromRGB(34, 34, 34),
-    ["Color Theme"] = Color3.fromRGB(240, 240, 240),
+    ["Color Hub 1"] = Color3.fromRGB(20, 20, 20),
+    ["Color Hub 2"] = Color3.fromRGB(38, 38, 38),
+    ["Color Theme"] = Color3.fromRGB(38, 46, 51),
     ["Color Text"] = Color3.fromRGB(255, 255, 255),
-    ["Color Dark Text"] = Color3.fromRGB(255, 255, 255),
-    ["Color Stroke"] = Color3.fromRGB(255, 255, 255),
+    ["Color Dark Text"] = Color3.fromRGB(38, 46, 51),
+    ["Color Stroke"] = Color3.fromRGB(38, 46, 51),
     ["Corner Radius"] = UDim.new(0, 8),
     ["Font"] = {
       Enum.Font.GothamBlack,
