@@ -5,7 +5,7 @@ local Themes = {
     ["Color Theme"] = Color3.fromRGB(214, 214, 214),
     ["Color Text"] = Color3.fromRGB(255, 255, 255),
     ["Color Dark Text"] = Color3.fromRGB(201, 201, 201),
-    ["Color Stroke"] = Color3.fromRGB(38, 46, 51),
+    ["Color Stroke"] = Color3.fromRGB(201, 201, 201),
     ["Corner Radius"] = UDim.new(0, 8),
     ["Font"] = {
       Enum.Font.GothamBlack,
