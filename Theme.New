@@ -1,8 +1,8 @@
 local Themes = {
   ["Default"] = {
     ["Color Hub 1"] = Color3.fromRGB(20, 20, 20),
-    ["Color Hub 2"] = Color3.fromRGB(38, 38, 38),
-    ["Color Theme"] = Color3.fromRGB(38, 46, 51),
+    ["Color Hub 2"] = Color3.fromRGB(18, 18, 18),
+    ["Color Theme"] = Color3.fromRGB(214, 214, 214),
     ["Color Text"] = Color3.fromRGB(255, 255, 255),
     ["Color Dark Text"] = Color3.fromRGB(38, 46, 51),
     ["Color Stroke"] = Color3.fromRGB(38, 46, 51),
